@@ -1,1 +1,2 @@
 # hello-world
+I'm an IT manager with a BS in Computer Science, programming. I don't enjoy the work I do and would rather be a career developer. I'm hoping to do something to establish a portfolio so that I don't go into a new career at entry level (my wife wouldn't appreciate the change in life-style). In school we were taught Java. I've messed around with that from time to time and I've also done a few Lua scripts for Roblox for my son.
